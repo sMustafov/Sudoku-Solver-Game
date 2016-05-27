@@ -1,0 +1,13 @@
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\App.g.cs
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver_MarkupCompile.cache
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.g.resources
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.baml
+C:\Users\pc1\Desktop\SudokuSolver\SudokuSolver\obj\Debug\MainWindow.g.cs
